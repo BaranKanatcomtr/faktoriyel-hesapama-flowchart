@@ -5,7 +5,7 @@ Flow Chart İle Faktöriyel Hesaplama Algoritması
 Faktöriyel, matematikte, sağına ünlem işareti konulmuş sayıya verilen isim, daha genel olan Gama fonksiyonunun tam sayılarla sınırlanmış özel bir durumudur. 1'den başlayarak belirli bir sayma sayısına kadar olan sayıların çarpımına o sayının faktöriyeli denir
 
 # Kullanım
-Algoritmanın çalışabilmesi için C programlama dilinin çalışabileceği program(ların) yüklü olması gereklidir.
+Dosyanın çalışabilmesi için "flowchart visual programming" programının bilgisayarınızda kurulu olması gerekebilir.
 
 # İletişim
 Benimle iletişme geçmek isterseniz www.barankanat.com.tr adresini ziyaret edebilirsiniz.                          
